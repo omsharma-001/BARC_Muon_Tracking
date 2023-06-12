@@ -1,0 +1,32 @@
+//Findings and unanswered questions
+
+1> the cause of plateau.
+ques: in the histogram plot( check them in main(branch) > metadata > 24_05 ) of fDelt there exist a plateau on the opposite side of the position. 
+for negative position there exist a plateau on the positive side. there is no plateau when particle is placed at 0 position. thies result in bais data.
+
+possible explaination > the plateau exists when particle is placed on any other position except zero this may be due to existence of more positionon one side. for ex when 
+particle is placed at +20 the right side would have (+30,+40,+45) while the other side would have (+10,0,-20,-30,-40,-45). 
+
+sol > 1.) making no difference between positive and negative values. check main(branch) > metadata > 24_05 the histgram of positive and negative values of +20, -20
+they make a perfect gaussian. hence use data of both values. the positive and negative values can be decided right at the moment usinf
+a > which plate got more charge 
+
+2>implication of charge why is it needed?. is charge lost aur gained during this
+
+
+3>importance of tnear or t far //no need, if relative cannot use time stamp till
+// non recgnised relation between ftsamp
+
+4> x3 x9 x15 the equation between fDelt mean and position
+
+
+5> using 20 percent  of certain position
+
+6>using training data right at the moment  
+need guidance
+
+7>taking no difference between positive and negative dist
+will do 
+
+8>give position with certain other values like x ray
+
