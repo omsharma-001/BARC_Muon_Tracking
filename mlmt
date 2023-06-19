@@ -1,5 +1,11 @@
 //Findings 
 
+"Board2_ML_Source_Na_BAR1_-10cm_ED_DIGI_16_05_2023_15hr_03min_46sec.csv",
+    "Board2_ML_Source_Na_BAR1_0cm_ED_DIGI_16_05_2023_14hr_59min_15sec.csv",
+    "Board2_ML_Source_Na_BAR1_-40cm_ED_DIGI_16_05_2023_15hr_25min_36sec.csv",
+    "Board2_ML_Source_Na_BAR1_-30cm_ED_DIGI_16_05_2023_15hr_21min_52sec.csv",
+    "Board2_ML_Source_Na_BAR1_-20cm_ED_DIGI_16_05_2023_15hr_18min_14sec.csv"
+
 1> the cause of plateau.
 ques: in the histogram plot( check them in main(branch) > metadata > 24_05 ) of fDelt there exist a plateau on the opposite side of the position. 
 for negative position there exist a plateau on the positive side. there is no plateau when particle is placed at 0 position. thies result in bais data.
