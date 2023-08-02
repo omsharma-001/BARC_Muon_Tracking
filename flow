@@ -13,6 +13,7 @@ Generalized Additive Models (GAM): GAMs extend linear regression by allowing for
 10) Robust Regression: If your data contain outliers or influential observations that might affect the estimates, you can use robust regression techniques that downweight the impact of extreme observations.
 11) Hierarchical Linear Models (Multilevel Models): If your data has a hierarchical structure, such as repeated measures within subjects or within clusters, hierarchical linear models can account for the nested nature of the data and provide more accurate estimates.
 12) Poisson Regression: It is used when the dependent variable represents count data and follows a Poisson distribution, such as the number of events occurring in a fixed interval of time or space.
+12) gaussian regression : 
 
 
 
