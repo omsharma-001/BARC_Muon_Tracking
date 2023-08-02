@@ -1,0 +1,21 @@
+fDelT
+
+1) Linear regression: Applicable
+2) Logistic Regression: not applicable
+3) Ridge Regression, Lasso Regression, ElasticNet Regression(L2 regularization): not used
+4) Time Series Regression: further research required
+4) Nonlinear Regression: not applicable 
+6) gamma regression :
+7) Tobit regression : 
+8) Poisson Regression with Gaussian Errors:
+9) Box-Cox Transformation: not applicable
+Generalized Additive Models (GAM): GAMs extend linear regression by allowing for nonlinear relationships between the dependent variable and the predictors. They are useful when you suspect that the relationship is not strictly linear
+10) Robust Regression: If your data contain outliers or influential observations that might affect the estimates, you can use robust regression techniques that downweight the impact of extreme observations.
+11) Hierarchical Linear Models (Multilevel Models): If your data has a hierarchical structure, such as repeated measures within subjects or within clusters, hierarchical linear models can account for the nested nature of the data and provide more accurate estimates.
+12) Poisson Regression: It is used when the dependent variable represents count data and follows a Poisson distribution, such as the number of events occurring in a fixed interval of time or space.
+
+
+
+
+
+
