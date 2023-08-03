@@ -1,40 +1,20 @@
+// dealing with the charge
+
+Qratio
+// have to deal with outliers
+? how will we correct it in the original experiment
+
+
+
+
+
+
+
+
+
 1) no outlier method
 2) increasing the accuracy using +-x: after a certain image is captured move the scintillator by +- x to get the constant: more info required
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-321
 the +- 10 version can be executed
 establishing the relations
 fdelt is related linearly with x. (confirmed)
