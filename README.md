@@ -10,4 +10,5 @@ Read the first_draft.pdf to understand it in layman's terms. while new.pdf conta
 If you encounter any issues or have questions about the project, please don't hesitate to reach out for support. You can contact me via:
 
 GitHub Issues: [Link to GitHub Issues page](https://github.com/gauraviiitg/MLMT_BARC/issues)
+
 Please provide as much detail as possible when reporting problems, including error messages, screenshots, and steps to reproduce the issue.
